@@ -18,24 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Write some research interests.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Deep Learning
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science
+    institution: University of Alberta
+    year: 2021 - 2023
+  - course: BTech in Computer Science and Engineering
+    institution: Vellore Institute of Technology
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,11 +62,12 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+# [Saurav Behera](https://www.linkedin.com/in/sauravkumarbehera/) and [Doney Alex](https://www.linkedin.com/in/doney-alex-34083762/). 
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am  an incoming Masters student in the Department of Computing Science at the University of Alberta. Currently, I am working as a Senior Machine Learning Engineer at [Capillary Technologies](https://www.capillarytech.com/products/smart-store-plus/). As part of the Instore Vision team at Capillary, I have worked on Computer Vision products for extracting useful insights about customers in an offline store, under the guidance of [Subrat Panda](https://www.linkedin.com/in/subratpanda/) and [Sumandeep Banerjee](https://www.linkedin.com/in/sumandeep-banerjee-1436a17/).
+Previously I was a Member Technical Staff at [Stride.ai](https://stride.ai/) where I worked on Document Image processing techniques to extract metadata from PDF documents, and Optical Character Recognition for scanned documents, supervised by [Pratheek Mahishi](https://www.linkedin.com/in/pratheekms/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
