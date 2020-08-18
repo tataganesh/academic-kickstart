@@ -23,10 +23,10 @@
 #   url = "#featured"
 #   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "mailto:<firstname><lastname>95@example.org"
-  weight = 60
+# [[main]]
+#   name = "Contact"
+#   url = "mailto:<firstname><lastname>95@example.org"
+#   weight = 60
 
 [[main]]
   name = "Talks"
