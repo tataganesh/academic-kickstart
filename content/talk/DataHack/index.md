@@ -25,7 +25,7 @@ all_day: false
 # publishDate: "2020-09-04T09:10:00Z"
 
 authors: []
-tags: []
+tags: [Deep Learning, Machine Learning, Model Deployment, Tensorflow]
 
 # Is this a featured talk? (true/false)
 featured: false
